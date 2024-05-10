@@ -9,6 +9,4 @@
 !BepInEx/plugins/*
 !BepInEx/plugins/**/*
 
-# !/EscapeFromTarkov_Data/
-# !/EscapeFromTarkov_Data/Managed/
-# !EscapeFromTarkov_Data/Managed/Assembly-CSharp.dll
+
