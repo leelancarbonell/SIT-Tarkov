@@ -4,5 +4,9 @@
   "AdvancedBotConfigs": false,
   "GlobalDebugMode": false,
   "DrawDebugGizmos": false,
-  "ConfigScaling": 1.0
+  "ConfigScaling": 1.0,
+  "CollectBotLayerBrainInfo": false,
+  "DebugDrawProjectionPoints": false,
+  "DebugEnablePathTester": false,
+  "DebugDrawSafePaths": false
 }

@@ -4,6 +4,8 @@
   "Description": "A New Player, terrified of everything.",
   "Variables": {
     "Enabled": true,
+    "CanShiftCoverPosition": true,
+    "ShiftCoverTimeMultiplier": 1.0,
     "CanBeRandomlyAssigned": true,
     "RandomlyAssignedChance": 25.0,
     "MaxLevel": 10.0,
