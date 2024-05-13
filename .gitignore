@@ -12,4 +12,9 @@
 !/BepInEx/plugins/
 !BepInEx/plugins/*
 !BepInEx/plugins/**/*
+
+BepInEx/plugins/SAIN/Presets/1.\ Baby\ Bots/GlobalSettings.json
+BepInEx/plugins/SAIN/Presets/2.\ Less\ Difficult/GlobalSettings.json
+BepInEx/plugins/SAIN/Presets/3.\ Default/GlobalSettings.json
+BepInEx/plugins/SAIN/Presets/4.\ I\ Like\ Pain/GlobalSettings.json
 BepInEx/plugins/SAIN/Presets/5.\ Death\ Wish/GlobalSettings.json
