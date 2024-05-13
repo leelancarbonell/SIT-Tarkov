@@ -12,3 +12,4 @@
 !/BepInEx/plugins/
 !BepInEx/plugins/*
 !BepInEx/plugins/**/*
+BepInEx/plugins/SAIN/Presets/5.\ Death\ Wish/GlobalSettings.json
