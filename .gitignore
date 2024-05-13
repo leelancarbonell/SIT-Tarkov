@@ -5,8 +5,10 @@
 !.gitignore
 
 !/BepInEx/
+
+!/BepInEx/config/
+!BepInEx/config/com.DanW.QuestingBots.cfg
+
 !/BepInEx/plugins/
 !BepInEx/plugins/*
 !BepInEx/plugins/**/*
-
-
